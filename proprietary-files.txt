@@ -191,7 +191,7 @@ odm/etc/camera/xiaomi/watermark/MiSansTibetanVF.ttf
 odm/etc/camera/xiaomi/watermark/noise_logo.png
 odm/etc/camera/xiaomi/watermark/Noto-COLRv1-emojicompat.ttf
 odm/etc/camera/xiaomi/watermark/Oxanium-Medium.ttf
-product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture
+product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera2
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so
 system_ext/lib64/libcamera_mianode_jni.xiaomi.so
 system_ext/lib64/libcamera_ispinterface_jni.xiaomi.so
