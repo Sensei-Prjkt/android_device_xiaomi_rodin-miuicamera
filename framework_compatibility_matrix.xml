@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<compatibility-matrix version="5.0" type="framework">
+    <hal format="aidl">
+        <name>vendor.xiaomi.hardware.misys.common</name>
+        <version>1-3</version>
+        <interface>
+            <name>IHypSysIntl</name>
+            <instance>default</instance>
+        </interface>
+        <interface>
+            <name>IMiSysImpl</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
+    <hal format="aidl">
+        <name>vendor.xiaomi.hardware.mtkblackbox</name>
+        <version>1-3</version>
+        <interface>
+            <name>IMtkblackboxImpl</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
+    <hal format="aidl">
+        <name>vendor.xiaomi.hardware.misys.core</name>
+        <interface>
+            <name>IMiSysCore</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
+</compatibility-matrix>
